@@ -1,61 +1,86 @@
+![hackitmac](img/hackitmac.jpg)
+So with the recent interest in hackathons and HackItMac. Here's a hackathon guide.
 
+If you have questions/suggestions email us at <hello@hackitmac.com>. Don't worry we're friendly!
 
-[Solo](http://solo.chibi.io) is a Jekyll theme that supports **single-page websites** only, but supports them well. Yes, it's responsive.
+##Hackathon FAQs
+**Will there be accommodations?**  
+No, but the hackathon will be a 24hr or 36hr event meaning the venue will be open and you can sleep anywhere. Bring a sleeping bag if you want.
 
-<iframe src="http://ghbtns.com/github-btn.html?user=chibicode&amp;repo=solo&amp;type=watch&amp;count=true&amp;size=large"
-  allowtransparency="true" frameborder="0" scrolling="0" width="170" height="30"></iframe><br/>
+**Is it really free?**  
+Yes completely free. Travel, food, free swag all covered!
 
-Looking for a more standard Jekyll theme? Try out [Shiori](http://github.com/ellekasai/shiori) theme, which has Bootstrap integration.
+**Do I need to have experience programming?**  
+Definitely not. Hackathon are a great experience and gives you a chance to see what's possible with technology. A suggestion is to join non-competitive teams. Going with friends or people who are just looking to learn. In the meantime you can follow this guide. We'll have workshops soon.
 
-## Solo is useful if...
+##Recommanded path for learning how to make a website
 
-* You want to create an "about me" page from a single markdown file and host it under a custom domain name.
-* You want to create a single-page website that's mostly text, like [Know Your Company](https://knowyourcompany.com/).
-* You want to share a single markdown file and tried GitHub Gist ([example](https://gist.github.com/dypsilon/5819504)), but would like something nicer-looking.
-* You want something like GitHub's [automatic page generator](http://pages.github.com/) for a non-code repository.
+Start with [http://www.codecademy.com/tracks/web](http://www.codecademy.com/tracks/web). Interactive lessons to teach you HTML & CSS.
 
-This page itself is built with Solo. It's generated from [this markdown file](https://github.com/chibicode/solo/blob/gh-pages/_includes/index.md).
+Alternatively try [https://dash.generalassemb.ly/](https://dash.generalassemb.ly/). It's also interactive lessons to learn HTML & CSS, but with more focus on projects. If you feel you need more a book or reference. Look at the resource section and pick one. Just so you don't get overwhelmed I would recommend starting with 
 
-## Usage
+After that try your hand at making your personal portfolio or an about me site. You can check out the different resources and see which ones you like or don't like.
 
-First, [install Jekyll](http://jekyllrb.com/docs/installation/). Then download Solo from its [GitHub Repository](https://github.com/chibicode/solo). Start Jekyll and you should see this page up and running.
+Namecheap is also offering free domain names for students to kickstart their online presence. Register with your mcmaster email. What are you waiting for, make that website you always wanted!
 
-**The main file you'll be editing is `_includes/index.md`**. This becomes the content for the main `index.html`.
+![namecheap free domain](img/namecheap_free_domain.png)
+[https://www.nc.me/](https://www.nc.me/)
 
-### Other Files
+##Transitioning from a website to a web app
+Web application are web pages that are interactive and often have similar functionality to applications on your desktop. Examples of web applications are google docs, facebook, twitter, tumblr.
 
-* Edit `_config.yml` to change the site title.
-* Edit `_includes/head.html` to add custom code to `<head>`.
-* Edit `_includes/scripts.html` to add custom code before `</body>`.
-* Edit `CNAME` to host on a custom domain.
-* Edit `README.md` before pushing your code.
+You'll need to learn javascript. The scripting language of the web. It allows you to do things like . Start with [http://eloquentjavascript.net/](http://eloquentjavascript.net/).
 
-### Don't use `<h1>` tags
+Next you can
 
-Wthin `index.md`, do not use `<h1>` tags - `<h1>` is reserved for the site title.
+##Resources
 
-### Supported Tags
+Lists resources for different technologies. Make this your go to resource. It lists more resources than this page.
+[http://adicu.com/resources](http://adicu.com/resources)
 
-Solo supports lists, `<hr>`s, `<table>`s,
+###Web
+If you are looking up something about HTML/CSS use [https://developer.mozilla.org/en-US/](https://developer.mozilla.org/en-US/) instead of [http://www.w3schools.com/](http://www.w3schools.com/). W3schools can be outdated and has a lower quality of documentation. Reasons [http://www.w3fools.com/](http://www.w3fools.com/)
 
-> blockquotes, and...
+This can be done simply by adding `mdn` at the end of your searches. Ex. search `div mdn` instead of `div`. First link will always be Mozilla Developer Network.
 
-~~~html
-<pre>code blocks with syntax highlighting.</pre>
-~~~
+**Just go on**  
+[https://developer.mozilla.org/en-US/](https://developer.mozilla.org/en-US/). Explore around.
 
-### Keep Solo up to date
+**Mozilla Developer Network has a great Web Developer guide section**  
+[https://developer.mozilla.org/en-US/docs/Web/Guide](https://developer.mozilla.org/en-US/docs/Web/Guide)
 
-Instead of downloading, you can [fork Solo](https://github.com/chibicode/solo/fork) and use the "upstream" strategy described on [this page](https://help.github.com/articles/fork-a-repo) to keep Solo up to date.
+**As well as a large tutorial list**  
+[https://developer.mozilla.org/en-US/docs/Web/Tutorials](https://developer.mozilla.org/en-US/docs/Web/Tutorials)
 
-## Author
+####HTML
+Dictates the structure and contents of every web page on the internet. Lets you put text and images on a web page; if you want to make a web site, start here.
 
-Shu Uesugi ([Twitter](http://twitter.com/chibicode)/[GitHub](http://github.com/chibicode)/[G+](https://plus.google.com/110325199858284431541?rel=author)).
+[https://developer.mozilla.org/en-US/docs/Web/HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+The Mozilla Developer Network page on HTML. They have tutorials and extensive documentation for HTML.
 
-![Shu Uesugi](http://www.gravatar.com/avatar/b868d84bbe2ed30ec45c9253e1c1cefe.jpg?s=200)
+####CSS
+The code that styles HTML: dictates look, layout, and general presentation. Once you've laid out your content using HTML, use CSS to make it look good.
 
-### License
+[https://developer.mozilla.org/en-US/docs/Web/CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+The Mozilla Developer Network page on CSS. They have tutorials and extensive documentation for CSS.
 
-[MIT License](http://chibicode.mit-license.org/)
+[Learn CSS Layout](http://learnlayout.com/)
+Defining how elements are position can be quite painful. But this tutorial walks you through it in concise steps.
 
-<div class="github-fork-ribbon-wrapper right fixed" style="width: 150px;height: 150px;position: fixed;overflow: hidden;top: 0;z-index: 9999;pointer-events: none;right: 0;"><div class="github-fork-ribbon" style="position: absolute;padding: 2px 0;background-color: #333;background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.15));-webkit-box-shadow: 0 2px 3px 0 rgba(0, 0, 0, 0.5);-moz-box-shadow: 0 2px 3px 0 rgba(0, 0, 0, 0.5);box-shadow: 0 2px 3px 0 rgba(0, 0, 0, 0.5);z-index: 9999;pointer-events: auto;top: 42px;right: -43px;-webkit-transform: rotate(45deg);-moz-transform: rotate(45deg);-ms-transform: rotate(45deg);-o-transform: rotate(45deg);transform: rotate(45deg);"><a href="https://github.com/chibicode/solo" style="font: 700 13px &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;color: #fff;text-decoration: none;text-shadow: 0 -1px rgba(0, 0, 0, 0.5);text-align: center;width: 200px;line-height: 20px;display: inline-block;padding: 2px 0;border-width: 1px 0;border-style: dotted;border-color: rgba(255, 255, 255, 0.7);">Fork me on GitHub</a></div></div>
+[The Magic of CSS](http://adamschwartz.co/magic-of-css/)
+An in depth tutorial on various CSS topics.
+
+####Javascript
+The programming language of the web. If you want your web site/app to move, change, or communicate, learn JavaScript.
+
+[Free javascript books](http://jsbooks.revolunet.com/)
+
+###GIT
+Git is a Version Control System (VCS), which lets you track changes to code over time and collaborate with others. A popular platform that lets you upload git repositories and collaborate on software projects is [github](https://github.com)
+
+[Git pocket guide](http://chimera.labs.oreilly.com/books/1230000000561)
+A free to read online book. A quick reference. And a way to just get started fast.
+
+###Command line
+[CONQUERING THE COMMAND LINE](http://conqueringthecommandline.com/)
+Learn to master and conquer the most valuable and useful command line tools for Unix and Linux based systems.
