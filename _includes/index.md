@@ -13,6 +13,14 @@ Yes completely free. Travel, food, free swag all covered!
 **Do I need to have experience programming?**  
 Definitely not. Hackathon are a great experience and gives you a chance to see what's possible with technology. A suggestion is to join non-competitive teams. Going with friends or people who are just looking to learn. In the meantime you can follow this guide. We'll have workshops soon.
 
+**What to bring!**
++ Passport
++ Sleeping Bag
++ Extra clothes
++ Laptop and charger
++ Cash and credit card (preferably credit card since canadian cash isn't accepted in the states)
++ Student ID (These are student hackathons so they maybe check if you're actually a student)
+
 ##Recommanded path for learning how to make a website
 
 Start with [http://www.codecademy.com/tracks/web](http://www.codecademy.com/tracks/web). Interactive lessons to teach you HTML & CSS.
