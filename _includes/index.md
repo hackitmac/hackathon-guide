@@ -14,6 +14,7 @@ Yes completely free. Travel, food, free swag all covered!
 Definitely not. Hackathon are a great experience and gives you a chance to see what's possible with technology. A suggestion is to join non-competitive teams. Going with friends or people who are just looking to learn. In the meantime you can follow this guide. We'll have workshops soon.
 
 **What to bring!**
+
 + Passport
 + Sleeping Bag
 + Extra clothes
