@@ -22,27 +22,7 @@ Definitely not. Hackathon are a great experience and gives you a chance to see w
 + Cash and credit card (preferably credit card since canadian cash isn't accepted in the states)
 + Student ID (These are student hackathons so they maybe check if you're actually a student)
 
-##Recommanded path for learning how to make a website
-
-Start with [http://www.codecademy.com/tracks/web](http://www.codecademy.com/tracks/web). Interactive lessons to teach you HTML & CSS.
-
-Alternatively try [https://dash.generalassemb.ly/](https://dash.generalassemb.ly/). It's also interactive lessons to learn HTML & CSS, but with more focus on projects. If you feel you need more a book or reference. Look at the resource section and pick one. Just so you don't get overwhelmed I would recommend starting with 
-
-After that try your hand at making your personal portfolio or an about me site. You can check out the different resources and see which ones you like or don't like.
-
-Namecheap is also offering free domain names for students to kickstart their online presence. Register with your mcmaster email. What are you waiting for, make that website you always wanted!
-
-![namecheap free domain](img/namecheap_free_domain.png)
-[https://www.nc.me/](https://www.nc.me/)
-
-##Transitioning from a website to a web app
-Web application are web pages that are interactive and often have similar functionality to applications on your desktop. Examples of web applications are google docs, facebook, twitter, tumblr.
-
-You'll need to learn javascript. The scripting language of the web. It allows you to do things like . Start with [http://eloquentjavascript.net/](http://eloquentjavascript.net/).
-
-Next you can
-
-##Resources
+#Resources
 
 Lists resources for different technologies. Make this your go to resource. It lists more resources than this page.
 [http://adicu.com/resources](http://adicu.com/resources)
@@ -93,3 +73,21 @@ A free to read online book. A quick reference. And a way to just get started fas
 ###Command line
 [CONQUERING THE COMMAND LINE](http://conqueringthecommandline.com/)
 Learn to master and conquer the most valuable and useful command line tools for Unix and Linux based systems.
+
+###Recommanded path for learning how to make a website
+
+Start with [http://www.codecademy.com/tracks/web](http://www.codecademy.com/tracks/web). Interactive lessons to teach you HTML & CSS.
+
+Alternatively try [https://dash.generalassemb.ly/](https://dash.generalassemb.ly/). It's also interactive lessons to learn HTML & CSS, but with more focus on projects. If you feel you need more a book or reference. Look at the resource section and pick one. Just so you don't get overwhelmed I would recommend starting with 
+
+After that try your hand at making your personal portfolio or an about me site. You can check out the different resources and see which ones you like or don't like.
+
+Namecheap is also offering free domain names for students to kickstart their online presence. Register with your mcmaster email. What are you waiting for, make that website you always wanted!
+
+![namecheap free domain](img/namecheap_free_domain.png)
+[https://www.nc.me/](https://www.nc.me/)
+
+###Transitioning from a website to a web app
+Web application are web pages that are interactive and often have similar functionality to applications on your desktop. Examples of web applications are google docs, facebook, twitter, tumblr.
+
+You'll need to learn javascript. The scripting language of the web. It allows you to do things like . Start with [http://eloquentjavascript.net/](http://eloquentjavascript.net/).
