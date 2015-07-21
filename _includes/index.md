@@ -15,7 +15,8 @@ Definitely not. Hackathon are a great experience and gives you a chance to see w
 
 **What to bring!**
 
-+ Passport
++ Passport (if we're going to the states, otherwise not needed)
+  + You might need a visa depending on your citizenship (if you're not canadian). 
 + Sleeping Bag
 + Extra clothes
 + Laptop and charger
