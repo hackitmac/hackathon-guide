@@ -7,6 +7,12 @@ If you have questions/suggestions email us at <hello@hackitmac.com>. Don't worry
 **Will there be accommodations?**  
 No, but the hackathon will be a 24hr or 36hr event meaning the venue will be open and you can sleep anywhere. Bring a sleeping bag if you want.
 
+**Who can come to these events?**
+Depends on the hackathon. If you're an undergraduate student, you're good to go.
+Graduate students might be allowed for some hackathon. Be sure to check their faq page.
+Example: [http://hackthenorth.com/faq](http://hackthenorth.com/faq)
+Do email them, sometimes they make exceptions for graduate students. If they don't specify, just ask!
+
 **Is it really free?**  
 Yes completely free. Travel, food, free swag all covered!
 
@@ -21,7 +27,7 @@ Definitely not. Hackathon are a great experience and gives you a chance to see w
 + Extra clothes
 + Laptop and charger
 + Cash and credit card (preferably credit card since canadian cash isn't accepted in the states)
-+ Student ID (These are student hackathons so they maybe check if you're actually a student)
++ Student ID (These are student hackathons so they might check if you're actually a student)
 
 #Resources
 
